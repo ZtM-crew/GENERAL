@@ -31,7 +31,7 @@ No problem at all. Our experienced team members can help you with any question.
 
 **Then the Project Lead is the owner of the site?**\
 No. There is no owner. Our projects are volunteer, community developed, open sourced software. Strictly for practicing, 
-learning and portfolio purposes. The original source code will be placed on the community`s Github account. Every member`s name, 
+learning and portfolio purposes. The original source code will be placed on the community's Github account. Every member's name, 
 who contributed until the finish of the project, will be credited.
 
 **What if any of our projects goes viral or requires more resources than free services can provide 
@@ -73,12 +73,13 @@ After an idea and the Project Lead has been choosen, we start the planning proce
 
 	Stage 5:
 
-		When all the necessary planning steps are done, we provide the link to our Github repository to fork 
-		the project. You pick a task card on Trello and you are free to start coding. When your task is done 
-		and sure is working fine, commit to your forked repo and make a Pull Request. If there is any additional 
-		info you want to share, please add a comment straight into the card and move to the Done/Release section. 
-		Your Pull Request will be reviewed and accepted as soon as possible, however you can let the management 
-		team knows about your recent PR.
+		When all the necessary planning steps are done, we provide the link to our Github repository 
+		to fork the project. You pick a task card on Trello and you are free to start coding. When your 
+		task is done and sure is working fine, commit to your forked repo and make a Pull Request. 
+		If there is any additional info you want to share, please add a comment straight into the card 
+		and move to the Done/Release section. 
+		Your Pull Request will be reviewed and accepted as soon as possible, however you can let the 
+		management team knows about your recent PR.
 
 
 **What if I feel my skills are way behind the other's?**\
