@@ -7,7 +7,7 @@ We are a community to creating web applications together, especially to make you
 more impressive for your future employer or contractor.
 
 **What I need to do to contribute in a project?**\
-Only a decision. And a free Trello.com account where our development work taking place. 
+Only a decision. And a free [Trello.com](https://trello.com/) account where our development work taking place. 
 Additional tool access can be suggested but all of them are free services.
 
 **What kind of projects are we making and who decides?**\
