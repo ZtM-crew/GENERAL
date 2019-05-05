@@ -44,37 +44,36 @@ who contributed in the project.
 **How does the development process work?**\
 After an idea and the Project Lead has been choosen, we start the planning process.
 
-	Stage 1:
+Stage 1:
 
-		The Project Lead has to do a detailed pitch of the following points:
-		- What is the name of the site?
-		- What does the website do, what is the purpose?
-		- What are the main functionalities and features?
+	The Project Lead has to do a detailed pitch of the following points:
+	- What is the name of the site?
+	- What does the website do, what is the purpose?
+	- What are the main functionalities and features?
 	
-	Stage 2:
+Stage 2:
 
-		After the above are clarified we need a wireframe/layout of the site, it is a graphical version how the site should look 
-		like. If possible, a prototype would be the best for better understanding. The prototype is a clickable demo to show the 		features without any coding.
+	After the above are clarified we need a wireframe/layout of the site, it is a graphical version how the site should look like. 		If possible, a prototype would be the best for better understanding. The prototype is a clickable demo to show the features 		without any coding.
 	
-	Stage 3:
+Stage 3:
 
-		If the Project Lead is satisfied with the wireframe/layout, the team decides what kind of technical solutions, 
-    		libraries and framework we will use.
-		By default we use React.js, Node.js/Express and SQL. Additional or substitutional decisions based on common agreement.
+	If the Project Lead is satisfied with the wireframe/layout, the team decides what kind of technical solutions, libraries and 
+	framework we will use.
+	By default we use React.js, Node.js/Express and SQL. Additional or substitutional decisions based on common agreement.
 
-	Stage 4:
+Stage 4:
 
-		When the planning process finished the Management team and the Project Lead start breaking down the project to smaller 			tasks 
-    		and provides them on Trello. All of the tasks are available from the beginning and the members decides which one they 			want to 
-    		work on. Additional tasks can be added based on issues or dependencies during the development.
+	When the planning process finished the Management team and the Project Lead start breaking down the project to smaller tasks and 
+	provides them on Trello. All of the tasks are available from the beginning and the members decides which one they want to work 
+	on. Additional tasks can be added based on issues or dependencies during the development.
 
-	Stage 5:
+Stage 5:
 
-		When all the necessary planning steps are done, we provide the link to our Github repository to fork the project. 
-    		You pick a task card on Trello and you are free to start coding. When your task is done and sure is working fine, 
-    		commit to your forked repo and make a Pull Request. If there is any additional info you want to share, please add 
-    		a comment straight into the card and move to the Done/Release section. Your Pull Request will be reviewed and accepted 
-    		as soon as possible, however you can let the management team knows about your recent PR.
+	When all the necessary planning steps are done, we provide the link to our Github repository to fork the project. You pick a
+	task card on Trello and you are free to start coding. When your task is done and sure is working fine, commit to your forked
+	repo and make a Pull Request. If there is any additional info you want to share, please add a comment straight into the card and
+	move to the Done/Release section. Your Pull Request will be reviewed and accepted as soon as possible, however you can let the
+	management team knows about your recent PR.
 
 
 **What if I feel my skills are way behind the other's?**\
