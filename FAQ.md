@@ -6,7 +6,7 @@
 We are a community to creating web applications together, especially to make your web developer portfolio 
 more impressive for your future employer or contractor.
 
-**What I need to do to contribute in a project?**
+**What I need to do to contribute in a project?**\
 Only a decision. And a free Trello.com account where our development work taking place. 
 Additional tool access can be suggested but all of them are free services.
 
