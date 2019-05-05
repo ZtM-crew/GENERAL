@@ -66,10 +66,10 @@ After an idea and the Project Lead has been choosen, we start the planning proce
 
 	Stage 4:
 
-		When the planning process finished the Management team and the Project Lead start breaking down the project 
-		to smaller tasks and provides them on Trello. All of the tasks are available from the beginning and 
-		the members decides which one they want to work on. Additional tasks can be added based on issues or 
-		dependencies during the development.
+		When the planning process finished the Management team and the Project Lead start breaking down 
+		the project to smaller tasks and provides them on Trello. All of the tasks are available from the 
+		beginning and the members decides which one they want to work on. Additional tasks can be added, 
+		based on issues or dependencies during the development.
 
 	Stage 5:
 
