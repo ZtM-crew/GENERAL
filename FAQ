@@ -1,6 +1,6 @@
-#FAQ
+# FAQ
 
-##Frequently Asked Questions for our community
+## Frequently Asked Questions for our community
 
 **What we are doing?**
 We are a community to creating web applications together, especially to make your web developer portfolio 
