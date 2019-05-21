@@ -8,7 +8,8 @@ more impressive for your future employer or contractor.
 
 **What I need to do to contribute in a project?**\
 Only a decision. And a free [Trello.com](https://trello.com/) account where our development work taking place. 
-Additional tool access can be suggested but all of them are free services.
+Additional tool access can be suggested but all of them are free services. As soon as you got a Trello account send your 
+username to the Project Lead or one of the member of the management.
 
 **What kind of projects are we making and who decides?**\
 Everything is based on the community. Usually when we finished a project, we start to gather ideas from the members 
